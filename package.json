@@ -1,0 +1,19 @@
+{
+  "name": "botscripts",
+  "version": "1.0.0",
+  "description": "A metropolictian police bot an jimbs bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bots"
+  ],
+  "author": "jimbobrb - roblox",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1"
+  }
+}
